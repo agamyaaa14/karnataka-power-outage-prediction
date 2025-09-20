@@ -1,0 +1,209 @@
+ward_name,feeder_id,asset_type,asset_age_years,infrastructure_quality,reliability_rating,datetime_start,duration_minutes,consumers_affected,cause,area_type,estimated_revenue_loss,crew_requirement,restoration_complexity
+Kadugodi,FD-KAD-03,Underground,9,Modern,0.995,2025-09-06 00:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Hudi,FD-HUD-02,Underground,15,Modern,0.995,2025-09-06 00:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Kudlu,FD-KUD-02,Underground,11,Modern,0.995,2025-09-06 00:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Bommanahalli,FD-BOM-05,Underground,8,Modern,0.995,2025-09-06 00:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Singasandra,FD-SIN-05,Underground,7,Modern,0.995,2025-09-06 00:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Whitefield,FD-WHI-05,Underground,6,Modern,0.995,2025-09-06 00:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Koramangala,FD-KOR-04,Mixed,19,Good,0.988,2025-09-06 00:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+J P Nagar,FD-JPN-04,Mixed,11,Good,0.988,2025-09-06 00:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+BTM Layout,FD-BTM-03,Mixed,10,Good,0.988,2025-09-06 00:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Domlur,FD-DOM-04,Mixed,16,Good,0.988,2025-09-06 00:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Hoysala Nagar,FD-HOY-01,Mixed,14,Good,0.988,2025-09-06 00:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Malleswaram,FD-MAL-01,Overhead,24,Legacy,0.975,2025-09-06 00:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Mattikere,FD-MAT-03,Overhead,22,Legacy,0.975,2025-09-06 00:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Basavanagudi,FD-BAS-01,Overhead,22,Legacy,0.975,2025-09-06 00:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Vasanth Nagar,FD-VAS-02,Overhead,21,Legacy,0.975,2025-09-06 00:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Rajaji Nagar,FD-RAJ-01,Overhead,23,Legacy,0.975,2025-09-06 00:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Shivaji Nagar,FD-SHI-01,Overhead Heavy,20,Industrial,0.982,2025-09-06 00:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Okalipuram,FD-OKA-04,Overhead Heavy,27,Industrial,0.982,2025-09-06 00:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Hegganahalli,FD-HEG-03,Overhead Heavy,18,Industrial,0.982,2025-09-06 00:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Kamakshipalya,FD-KAM-05,Overhead Heavy,15,Industrial,0.982,2025-09-06 00:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Shettihalli,FD-SHE-01,Overhead Heavy,28,Industrial,0.982,2025-09-06 00:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Yelahanka Satellite Town,FD-YEL-05,Mixed New,15,Developing,0.99,2025-09-06 00:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kengeri,FD-KEN-01,Mixed New,18,Developing,0.99,2025-09-06 00:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Herohalli,FD-HER-03,Mixed New,17,Developing,0.99,2025-09-06 00:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Thanisandra,FD-THA-05,Mixed New,13,Developing,0.99,2025-09-06 00:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Byatarayanapura,FD-BYA-04,Mixed New,17,Developing,0.99,2025-09-06 00:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kadugodi,FD-KAD-03,Underground,7,Modern,0.995,2025-09-06 03:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Hudi,FD-HUD-05,Underground,13,Modern,0.995,2025-09-06 03:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Kudlu,FD-KUD-05,Underground,6,Modern,0.995,2025-09-06 03:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Bommanahalli,FD-BOM-01,Underground,12,Modern,0.995,2025-09-06 03:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Singasandra,FD-SIN-02,Underground,14,Modern,0.995,2025-09-06 03:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Whitefield,FD-WHI-02,Underground,6,Modern,0.995,2025-09-06 03:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Koramangala,FD-KOR-04,Mixed,10,Good,0.988,2025-09-06 03:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+J P Nagar,FD-JPN-02,Mixed,17,Good,0.988,2025-09-06 03:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+BTM Layout,FD-BTM-01,Mixed,12,Good,0.988,2025-09-06 03:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Domlur,FD-DOM-03,Mixed,14,Good,0.988,2025-09-06 03:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Hoysala Nagar,FD-HOY-05,Mixed,16,Good,0.988,2025-09-06 03:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Malleswaram,FD-MAL-02,Overhead,38,Legacy,0.975,2025-09-06 03:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Mattikere,FD-MAT-03,Overhead,23,Legacy,0.975,2025-09-06 03:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Basavanagudi,FD-BAS-05,Overhead,38,Legacy,0.975,2025-09-06 03:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Vasanth Nagar,FD-VAS-02,Overhead,31,Legacy,0.975,2025-09-06 03:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Rajaji Nagar,FD-RAJ-04,Overhead,26,Legacy,0.975,2025-09-06 03:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Shivaji Nagar,FD-SHI-05,Overhead Heavy,22,Industrial,0.982,2025-09-06 03:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Okalipuram,FD-OKA-03,Overhead Heavy,27,Industrial,0.982,2025-09-06 03:00:00,165,4019,Tree Contact,industrial_commercial,33156.75,Line Crew + Forestry Team + Heavy Equipment,Medium
+Hegganahalli,FD-HEG-01,Overhead Heavy,26,Industrial,0.982,2025-09-06 03:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Kamakshipalya,FD-KAM-03,Overhead Heavy,19,Industrial,0.982,2025-09-06 03:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Shettihalli,FD-SHE-03,Overhead Heavy,28,Industrial,0.982,2025-09-06 03:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Yelahanka Satellite Town,FD-YEL-03,Mixed New,11,Developing,0.99,2025-09-06 03:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kengeri,FD-KEN-02,Mixed New,17,Developing,0.99,2025-09-06 03:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Herohalli,FD-HER-01,Mixed New,18,Developing,0.99,2025-09-06 03:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Thanisandra,FD-THA-05,Mixed New,9,Developing,0.99,2025-09-06 03:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Byatarayanapura,FD-BYA-01,Mixed New,9,Developing,0.99,2025-09-06 03:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kadugodi,FD-KAD-05,Underground,10,Modern,0.995,2025-09-06 06:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Hudi,FD-HUD-04,Underground,5,Modern,0.995,2025-09-06 06:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Kudlu,FD-KUD-04,Underground,8,Modern,0.995,2025-09-06 06:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Bommanahalli,FD-BOM-03,Underground,8,Modern,0.995,2025-09-06 06:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Singasandra,FD-SIN-03,Underground,11,Modern,0.995,2025-09-06 06:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Whitefield,FD-WHI-02,Underground,10,Modern,0.995,2025-09-06 06:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Koramangala,FD-KOR-01,Mixed,16,Good,0.988,2025-09-06 06:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+J P Nagar,FD-JPN-03,Mixed,20,Good,0.988,2025-09-06 06:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+BTM Layout,FD-BTM-02,Mixed,17,Good,0.988,2025-09-06 06:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Domlur,FD-DOM-05,Mixed,20,Good,0.988,2025-09-06 06:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Hoysala Nagar,FD-HOY-01,Mixed,16,Good,0.988,2025-09-06 06:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Malleswaram,FD-MAL-01,Overhead,22,Legacy,0.975,2025-09-06 06:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Mattikere,FD-MAT-03,Overhead,38,Legacy,0.975,2025-09-06 06:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Basavanagudi,FD-BAS-02,Overhead,34,Legacy,0.975,2025-09-06 06:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Vasanth Nagar,FD-VAS-05,Overhead,36,Legacy,0.975,2025-09-06 06:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Rajaji Nagar,FD-RAJ-02,Overhead,39,Legacy,0.975,2025-09-06 06:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Shivaji Nagar,FD-SHI-05,Overhead Heavy,15,Industrial,0.982,2025-09-06 06:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Okalipuram,FD-OKA-04,Overhead Heavy,26,Industrial,0.982,2025-09-06 06:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Hegganahalli,FD-HEG-03,Overhead Heavy,24,Industrial,0.982,2025-09-06 06:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Kamakshipalya,FD-KAM-02,Overhead Heavy,30,Industrial,0.982,2025-09-06 06:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Shettihalli,FD-SHE-04,Overhead Heavy,21,Industrial,0.982,2025-09-06 06:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Yelahanka Satellite Town,FD-YEL-04,Mixed New,16,Developing,0.99,2025-09-06 06:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kengeri,FD-KEN-01,Mixed New,16,Developing,0.99,2025-09-06 06:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Herohalli,FD-HER-02,Mixed New,13,Developing,0.99,2025-09-06 06:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Thanisandra,FD-THA-03,Mixed New,16,Developing,0.99,2025-09-06 06:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Byatarayanapura,FD-BYA-02,Mixed New,15,Developing,0.99,2025-09-06 06:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kadugodi,FD-KAD-05,Underground,13,Modern,0.995,2025-09-06 09:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Hudi,FD-HUD-01,Underground,11,Modern,0.995,2025-09-06 09:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Kudlu,FD-KUD-01,Underground,9,Modern,0.995,2025-09-06 09:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Bommanahalli,FD-BOM-01,Underground,13,Modern,0.995,2025-09-06 09:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Singasandra,FD-SIN-02,Underground,11,Modern,0.995,2025-09-06 09:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Whitefield,FD-WHI-02,Underground,11,Modern,0.995,2025-09-06 09:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Koramangala,FD-KOR-04,Mixed,20,Good,0.988,2025-09-06 09:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+J P Nagar,FD-JPN-02,Mixed,18,Good,0.988,2025-09-06 09:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+BTM Layout,FD-BTM-03,Mixed,13,Good,0.988,2025-09-06 09:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Domlur,FD-DOM-01,Mixed,15,Good,0.988,2025-09-06 09:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Hoysala Nagar,FD-HOY-04,Mixed,19,Good,0.988,2025-09-06 09:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Malleswaram,FD-MAL-05,Overhead,33,Legacy,0.975,2025-09-06 09:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Mattikere,FD-MAT-03,Overhead,20,Legacy,0.975,2025-09-06 09:00:00,120,4549,Equipment Failure,traditional_areas,27294.0,Line Crew + Transformer Team,Medium
+Basavanagudi,FD-BAS-03,Overhead,37,Legacy,0.975,2025-09-06 09:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Vasanth Nagar,FD-VAS-05,Overhead,28,Legacy,0.975,2025-09-06 09:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Rajaji Nagar,FD-RAJ-01,Overhead,35,Legacy,0.975,2025-09-06 09:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Shivaji Nagar,FD-SHI-03,Overhead Heavy,30,Industrial,0.982,2025-09-06 09:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Okalipuram,FD-OKA-04,Overhead Heavy,19,Industrial,0.982,2025-09-06 09:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Hegganahalli,FD-HEG-05,Overhead Heavy,22,Industrial,0.982,2025-09-06 09:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Kamakshipalya,FD-KAM-03,Overhead Heavy,20,Industrial,0.982,2025-09-06 09:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Shettihalli,FD-SHE-01,Overhead Heavy,15,Industrial,0.982,2025-09-06 09:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Yelahanka Satellite Town,FD-YEL-04,Mixed New,13,Developing,0.99,2025-09-06 09:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kengeri,FD-KEN-05,Mixed New,17,Developing,0.99,2025-09-06 09:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Herohalli,FD-HER-05,Mixed New,15,Developing,0.99,2025-09-06 09:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Thanisandra,FD-THA-03,Mixed New,12,Developing,0.99,2025-09-06 09:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Byatarayanapura,FD-BYA-01,Mixed New,12,Developing,0.99,2025-09-06 09:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kadugodi,FD-KAD-02,Underground,12,Modern,0.995,2025-09-06 12:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Hudi,FD-HUD-04,Underground,13,Modern,0.995,2025-09-06 12:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Kudlu,FD-KUD-02,Underground,14,Modern,0.995,2025-09-06 12:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Bommanahalli,FD-BOM-03,Underground,12,Modern,0.995,2025-09-06 12:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Singasandra,FD-SIN-04,Underground,15,Modern,0.995,2025-09-06 12:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Whitefield,FD-WHI-01,Underground,11,Modern,0.995,2025-09-06 12:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Koramangala,FD-KOR-04,Mixed,16,Good,0.988,2025-09-06 12:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+J P Nagar,FD-JPN-05,Mixed,20,Good,0.988,2025-09-06 12:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+BTM Layout,FD-BTM-04,Mixed,11,Good,0.988,2025-09-06 12:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Domlur,FD-DOM-02,Mixed,14,Good,0.988,2025-09-06 12:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Hoysala Nagar,FD-HOY-05,Mixed,20,Good,0.988,2025-09-06 12:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Malleswaram,FD-MAL-01,Overhead,24,Legacy,0.975,2025-09-06 12:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Mattikere,FD-MAT-05,Overhead,26,Legacy,0.975,2025-09-06 12:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Basavanagudi,FD-BAS-03,Overhead,25,Legacy,0.975,2025-09-06 12:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Vasanth Nagar,FD-VAS-04,Overhead,32,Legacy,0.975,2025-09-06 12:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Rajaji Nagar,FD-RAJ-01,Overhead,20,Legacy,0.975,2025-09-06 12:00:00,85,4780,Maintenance Issue,traditional_areas,20315.0,Maintenance Crew,Low
+Shivaji Nagar,FD-SHI-01,Overhead Heavy,18,Industrial,0.982,2025-09-06 12:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Okalipuram,FD-OKA-02,Overhead Heavy,26,Industrial,0.982,2025-09-06 12:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Hegganahalli,FD-HEG-01,Overhead Heavy,28,Industrial,0.982,2025-09-06 12:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Kamakshipalya,FD-KAM-01,Overhead Heavy,28,Industrial,0.982,2025-09-06 12:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Shettihalli,FD-SHE-04,Overhead Heavy,20,Industrial,0.982,2025-09-06 12:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Yelahanka Satellite Town,FD-YEL-04,Mixed New,13,Developing,0.99,2025-09-06 12:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kengeri,FD-KEN-01,Mixed New,14,Developing,0.99,2025-09-06 12:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Herohalli,FD-HER-04,Mixed New,11,Developing,0.99,2025-09-06 12:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Thanisandra,FD-THA-05,Mixed New,11,Developing,0.99,2025-09-06 12:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Byatarayanapura,FD-BYA-02,Mixed New,8,Developing,0.99,2025-09-06 12:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kadugodi,FD-KAD-05,Underground,8,Modern,0.995,2025-09-06 15:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Hudi,FD-HUD-05,Underground,12,Modern,0.995,2025-09-06 15:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Kudlu,FD-KUD-02,Underground,15,Modern,0.995,2025-09-06 15:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Bommanahalli,FD-BOM-04,Underground,14,Modern,0.995,2025-09-06 15:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Singasandra,FD-SIN-04,Underground,8,Modern,0.995,2025-09-06 15:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Whitefield,FD-WHI-01,Underground,12,Modern,0.995,2025-09-06 15:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Koramangala,FD-KOR-03,Mixed,12,Good,0.988,2025-09-06 15:00:00,150,5434,Weather: Grid Overload,established_residential,40755.0,Load Management Team,Low
+J P Nagar,FD-JPN-01,Mixed,20,Good,0.988,2025-09-06 15:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+BTM Layout,FD-BTM-04,Mixed,12,Good,0.988,2025-09-06 15:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Domlur,FD-DOM-03,Mixed,19,Good,0.988,2025-09-06 15:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Hoysala Nagar,FD-HOY-04,Mixed,12,Good,0.988,2025-09-06 15:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Malleswaram,FD-MAL-01,Overhead,27,Legacy,0.975,2025-09-06 15:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Mattikere,FD-MAT-03,Overhead,25,Legacy,0.975,2025-09-06 15:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Basavanagudi,FD-BAS-04,Overhead,31,Legacy,0.975,2025-09-06 15:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Vasanth Nagar,FD-VAS-05,Overhead,33,Legacy,0.975,2025-09-06 15:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Rajaji Nagar,FD-RAJ-02,Overhead,22,Legacy,0.975,2025-09-06 15:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Shivaji Nagar,FD-SHI-01,Overhead Heavy,29,Industrial,0.982,2025-09-06 15:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Okalipuram,FD-OKA-05,Overhead Heavy,29,Industrial,0.982,2025-09-06 15:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Hegganahalli,FD-HEG-05,Overhead Heavy,30,Industrial,0.982,2025-09-06 15:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Kamakshipalya,FD-KAM-01,Overhead Heavy,17,Industrial,0.982,2025-09-06 15:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Shettihalli,FD-SHE-05,Overhead Heavy,18,Industrial,0.982,2025-09-06 15:00:00,240,4541,Weather: Grid Overload,industrial_commercial,54492.0,Load Management Team + Heavy Equipment,Low
+Yelahanka Satellite Town,FD-YEL-04,Mixed New,15,Developing,0.99,2025-09-06 15:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kengeri,FD-KEN-03,Mixed New,15,Developing,0.99,2025-09-06 15:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Herohalli,FD-HER-03,Mixed New,13,Developing,0.99,2025-09-06 15:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Thanisandra,FD-THA-04,Mixed New,12,Developing,0.99,2025-09-06 15:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Byatarayanapura,FD-BYA-03,Mixed New,18,Developing,0.99,2025-09-06 15:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kadugodi,FD-KAD-05,Underground,15,Modern,0.995,2025-09-06 18:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Hudi,FD-HUD-02,Underground,14,Modern,0.995,2025-09-06 18:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Kudlu,FD-KUD-02,Underground,11,Modern,0.995,2025-09-06 18:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Bommanahalli,FD-BOM-02,Underground,12,Modern,0.995,2025-09-06 18:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Singasandra,FD-SIN-04,Underground,12,Modern,0.995,2025-09-06 18:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Whitefield,FD-WHI-05,Underground,10,Modern,0.995,2025-09-06 18:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Koramangala,FD-KOR-05,Mixed,13,Good,0.988,2025-09-06 18:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+J P Nagar,FD-JPN-05,Mixed,19,Good,0.988,2025-09-06 18:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+BTM Layout,FD-BTM-04,Mixed,12,Good,0.988,2025-09-06 18:00:00,90,7056,Equipment Failure,established_residential,31752.0,Line Crew + Transformer Team,Medium
+Domlur,FD-DOM-01,Mixed,19,Good,0.988,2025-09-06 18:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Hoysala Nagar,FD-HOY-01,Mixed,11,Good,0.988,2025-09-06 18:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Malleswaram,FD-MAL-03,Overhead,20,Legacy,0.975,2025-09-06 18:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Mattikere,FD-MAT-04,Overhead,25,Legacy,0.975,2025-09-06 18:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Basavanagudi,FD-BAS-01,Overhead,39,Legacy,0.975,2025-09-06 18:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Vasanth Nagar,FD-VAS-03,Overhead,29,Legacy,0.975,2025-09-06 18:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Rajaji Nagar,FD-RAJ-05,Overhead,27,Legacy,0.975,2025-09-06 18:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Shivaji Nagar,FD-SHI-02,Overhead Heavy,22,Industrial,0.982,2025-09-06 18:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Okalipuram,FD-OKA-01,Overhead Heavy,30,Industrial,0.982,2025-09-06 18:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Hegganahalli,FD-HEG-05,Overhead Heavy,28,Industrial,0.982,2025-09-06 18:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Kamakshipalya,FD-KAM-02,Overhead Heavy,28,Industrial,0.982,2025-09-06 18:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Shettihalli,FD-SHE-03,Overhead Heavy,20,Industrial,0.982,2025-09-06 18:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Yelahanka Satellite Town,FD-YEL-05,Mixed New,14,Developing,0.99,2025-09-06 18:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kengeri,FD-KEN-01,Mixed New,15,Developing,0.99,2025-09-06 18:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Herohalli,FD-HER-05,Mixed New,10,Developing,0.99,2025-09-06 18:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Thanisandra,FD-THA-03,Mixed New,15,Developing,0.99,2025-09-06 18:00:00,96,5764,Tree Contact,emerging_areas,27667.2,Line Crew + Forestry Team,Medium
+Byatarayanapura,FD-BYA-01,Mixed New,11,Developing,0.99,2025-09-06 18:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kadugodi,FD-KAD-03,Underground,12,Modern,0.995,2025-09-06 21:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Hudi,FD-HUD-03,Underground,5,Modern,0.995,2025-09-06 21:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Kudlu,FD-KUD-02,Underground,9,Modern,0.995,2025-09-06 21:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Bommanahalli,FD-BOM-01,Underground,11,Modern,0.995,2025-09-06 21:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Singasandra,FD-SIN-05,Underground,15,Modern,0.995,2025-09-06 21:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Whitefield,FD-WHI-01,Underground,14,Modern,0.995,2025-09-06 21:00:00,0,0,No Outage,new_tech_zones,0.0,Standard Line Crew + Excavation Support,High
+Koramangala,FD-KOR-01,Mixed,10,Good,0.988,2025-09-06 21:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+J P Nagar,FD-JPN-05,Mixed,20,Good,0.988,2025-09-06 21:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+BTM Layout,FD-BTM-04,Mixed,11,Good,0.988,2025-09-06 21:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Domlur,FD-DOM-02,Mixed,12,Good,0.988,2025-09-06 21:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Hoysala Nagar,FD-HOY-04,Mixed,20,Good,0.988,2025-09-06 21:00:00,0,0,No Outage,established_residential,0.0,Standard Line Crew,Medium
+Malleswaram,FD-MAL-01,Overhead,27,Legacy,0.975,2025-09-06 21:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Mattikere,FD-MAT-05,Overhead,29,Legacy,0.975,2025-09-06 21:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Basavanagudi,FD-BAS-05,Overhead,39,Legacy,0.975,2025-09-06 21:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Vasanth Nagar,FD-VAS-05,Overhead,27,Legacy,0.975,2025-09-06 21:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Rajaji Nagar,FD-RAJ-02,Overhead,21,Legacy,0.975,2025-09-06 21:00:00,0,0,No Outage,traditional_areas,0.0,Standard Line Crew,Medium
+Shivaji Nagar,FD-SHI-01,Overhead Heavy,30,Industrial,0.982,2025-09-06 21:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Okalipuram,FD-OKA-01,Overhead Heavy,18,Industrial,0.982,2025-09-06 21:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Hegganahalli,FD-HEG-02,Overhead Heavy,20,Industrial,0.982,2025-09-06 21:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Kamakshipalya,FD-KAM-02,Overhead Heavy,23,Industrial,0.982,2025-09-06 21:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Shettihalli,FD-SHE-04,Overhead Heavy,30,Industrial,0.982,2025-09-06 21:00:00,0,0,No Outage,industrial_commercial,0.0,Standard Line Crew + Heavy Equipment,Medium
+Yelahanka Satellite Town,FD-YEL-01,Mixed New,12,Developing,0.99,2025-09-06 21:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Kengeri,FD-KEN-03,Mixed New,13,Developing,0.99,2025-09-06 21:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Herohalli,FD-HER-02,Mixed New,16,Developing,0.99,2025-09-06 21:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Thanisandra,FD-THA-01,Mixed New,8,Developing,0.99,2025-09-06 21:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
+Byatarayanapura,FD-BYA-01,Mixed New,12,Developing,0.99,2025-09-06 21:00:00,0,0,No Outage,emerging_areas,0.0,Standard Line Crew,Medium
