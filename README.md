@@ -1,234 +1,142 @@
-# Karnataka Power Outage Prediction
+# Karnataka Power Grid Hyperlocal Risk Forecasting System
 
-> 🏆 Winner — PATLN IET Bangalore Network Hackathon  
-> Developed for Balfour Beatty Infrastructure India
+A data-driven prototype for **proactive power outage risk assessment and hyperlocal outage awareness** across Karnataka, with a focused view of Bengaluru.
 
-Predicting localized power outages 24 hours in advance using weather forecasts, infrastructure data, and machine learning to support proactive maintenance and improve grid reliability.
+The project addresses a simple real-world problem:
 
----
+> Power outages can be extremely local. Two people living in different areas can experience completely different power conditions even when they are experiencing the same weather.
 
-## Project Overview
+Instead of only asking **"Will Karnataka have power outages?"**, this system attempts to answer:
 
-Power outages are often influenced by changing weather conditions and infrastructure failures. Utility providers typically respond only after outages occur, resulting in increased downtime and customer impact.
+- Which districts are currently at higher risk?
+- What factors are contributing to that risk?
+- Which areas of Bengaluru may be more vulnerable?
+- How many consumers could potentially be affected?
+- What operational action could utility teams consider?
+- How can citizens be alerted about potential outage conditions?
 
-This project proposes a predictive maintenance solution that forecasts potential outages one day in advance, allowing engineers to identify high-risk regions and prioritize preventive actions.
+The prototype provides two separate interfaces:
 
-The solution was developed during the **PATLN IET Bangalore Network Hackathon**, where it won first place and earned an internship opportunity with **Balfour Beatty Infrastructure India**.
-
----
-
-## Problem Statement
-
-Electrical utilities face challenges such as:
-
-- Severe weather affecting power infrastructure
-- Delayed identification of high-risk areas
-- Reactive maintenance workflows
-- Limited visibility into outage risks
-
-The objective was to build a machine learning system capable of identifying areas that are likely to experience outages within the next 24 hours.
+1. **Utility Interface** – designed for maintenance and operations teams.
+2. **Citizen Interface** – designed to communicate outage awareness and safety information to the public.
 
 ---
 
-## Solution
+## Project Motivation
 
-The proposed solution combines weather forecasts with infrastructure information to estimate outage probability.
+Traditional weather-based alerts are useful at a broad level, but power outages are often **hyperlocal**.
 
-The workflow consists of:
+For example, two people living in nearby areas may experience the same wind, temperature, and humidity conditions, while one area loses power and the other does not.
 
-Weather Data
-↓
+This happens because outage risk is influenced by more than weather. Infrastructure characteristics such as:
 
-Infrastructure Data
-↓
+- transformer condition
+- feeder reliability
+- asset age
+- overhead vs underground lines
+- geographical location
+- consumer density
+- local infrastructure
 
-Feature Engineering
-↓
+can significantly influence how vulnerable an area may be.
 
-Machine Learning Model
-↓
+The long-term goal of this project is therefore to move from:
 
-Risk Prediction
-↓
+**"An outage happened → respond"**
 
-Interactive Dashboard
+towards:
 
-Engineers can use the dashboard to monitor outage risks and prioritize maintenance activities before failures occur.
-
----
-
-## Features
-
-- Predicts localized power outages 24 hours in advance
-- Weather-driven risk assessment
-- Infrastructure-aware predictions
-- Interactive dashboard for visualization
-- Region-wise outage probability
-- Easy-to-understand risk indicators
+**"An outage may be likely → prepare and alert."**
 
 ---
 
-# Machine Learning Pipeline
+## Key Features
 
-1. Data Collection
-    - Weather observations
-    - Infrastructure information
-    - Historical outage patterns (synthetic for hackathon)
+### Karnataka District-Level Risk Assessment
+The system processes weather information across Karnataka and assigns each district a risk score.
 
-2. Data Cleaning
-    - Missing value handling
-    - Feature normalization
-    - Data validation
+Districts are classified into:
+- Low
+- Medium
+- High
+- Severe
 
-3. Feature Engineering
-    - Temperature
-    - Rainfall
-    - Wind Speed
-    - Humidity
-    - Infrastructure condition
-    - Region mapping
+Risk is influenced by factors such as:
+- Wind
+- Temperature / heat stress
+- Humidity
+- District characteristics
+- Infrastructure-related risk factors
 
-4. Model Training
-    - Train/Test split
-    - Model selection
-    - Performance evaluation
+### Bengaluru Hyperlocal Outage View
+Instead of showing Bengaluru as a single unit, the system provides a more localized view of selected Bengaluru areas.
 
-5. Prediction
-    - Generate outage probability
-    - Classify risk level
-    - Display predictions on dashboard
+This is important because:
+> Saying "Bengaluru has a power outage" is not particularly useful.
 
----
+A citizen or maintenance team needs to know **which area is affected**. The prototype therefore uses geographical boundaries and localized infrastructure information to represent potential outage conditions at an area/ward level.
 
-## Technology Stack
+### Utility Interface
+The utility-facing interface focuses on operational awareness. It provides information such as:
+- District risk levels
+- Risk factors
+- Bengaluru outage areas
+- Number of affected consumers
+- Estimated outage duration
+- Reliability information
+- Potential causes
+- Operational recommendations
+- Time-based risk/outage views
 
-### Programming
+The goal is to help maintenance teams identify **where attention may be required first**.
 
-- Python
+### Citizen Interface
+The citizen-facing interface presents information in a simpler format. Instead of exposing technical infrastructure information, it focuses on:
+- Potential outage areas
+- Current risk awareness
+- Affected locations
+- Safety/preparedness information
+- Citizen-friendly alerts
 
-### Machine Learning
-
-- Scikit-learn
-- Pandas
-- NumPy
-
-### Visualization
-
-- Streamlit
-- Plotly
-
-### Development
-
-- Git
-- GitHub
+The idea is to provide the public with useful information without requiring them to understand electrical-grid terminology.
 
 ---
 
-# Repository Structure
+## System Overview
 
-```
-.
-├── data/
-├── models/
-├── notebooks/
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── train.py
-│   ├── predict.py
-│   └── utils.py
-├── app.py
-├── requirements.txt
-└── README.md
-```
+The overall workflow can be represented as:
 
-*(Modify this tree to match your actual repository.)*
-
----
-
-# Screenshots
-
-## Dashboard
-
-![Dashboard](images/dashboard.png)
-
----
-
-## Prediction Results
-
-![Predictions](images/predictions.png)
-
----
-
-## Risk Map
-
-![Risk Map](images/risk-map.png)
-
----
-
-## Model Workflow
-
-![Architecture](images/architecture.png)
-
----
-
-## Feature Importance
-
-![Feature Importance](images/feature-importance.png)
-
----
-
-# Future Improvements
-
-- Real-time weather API integration
-- Live utility infrastructure data
-- Deep learning models
-- GIS-based visualization
-- Automated maintenance recommendations
-- Alert notification system
-
----
-
-# Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/agamyaaa14/karnataka-power-outage-prediction.git
-```
-
-Navigate into the project
-
-```bash
-cd karnataka-power-outage-prediction
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-streamlit run app.py
-```
-
----
-
-## Key Learnings
-
-- Building end-to-end machine learning pipelines
-- Feature engineering for predictive analytics
-- Designing interactive dashboards for decision support
-- Collaborating under hackathon time constraints
-- Presenting technical solutions to industry professionals
-
----
-
-# Results
-
-The prototype successfully demonstrated the feasibility of predicting localized outage risks using weather and infrastructure features, enabling proactive maintenance planning.
-
----
+                Weather Data
+                     |
+                     v
+              Data Cleaning
+                     |
+                     v
+          Missing Value Handling
+                     |
+                     v
+          District Standardization
+                     |
+                     v
+          Risk Score Calculation
+                     |
+                     v
+       +-------------+-------------+
+       |                           |
+       v                           v
+Karnataka District Risk      Bengaluru Hyperlocal
+       Analysis              Outage Simulation
+       |                           |
+       |                     Infrastructure Data
+       |                           |
+       +-------------+-------------+
+                     |
+                     v
+              Processed Data
+                     |
+                     v
+              Streamlit App
+              /           \
+             /             \
+            v               v
+     Utility Interface   Citizen Interface
