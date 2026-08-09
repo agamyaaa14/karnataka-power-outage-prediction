@@ -315,29 +315,63 @@ The data processing pipeline performs several steps before the data reaches the 
 
 ## Application Interfaces
 
-### 1. Utility Interface
-The utility interface is designed for maintenance and operations teams. It focuses on questions such as:
+The application contains four main views: Karnataka Utility, Karnataka Citizen, Bengaluru Utility, and Bengaluru Citizen. Each interface is designed for a different level of geographic awareness and user need.
 
-- Where should we pay attention?
-- Which districts are at higher risk?
-- Which Bengaluru areas may experience outages?
-- How many consumers could be affected?
-- What could be contributing to the risk?
+### 1. Karnataka Utility View
 
-![Utility Dashboard Placeholder](images/utility-dashboard.png)  
-*(Replace the path above with your actual screenshot)*
+The Karnataka utility interface is designed for maintenance and operations teams. It provides a state-level overview of:
 
-### 2. Citizen Interface
-The citizen interface presents the same underlying information in a simpler and more accessible way. It focuses on:
+- Districts requiring attention
+- District-level risk levels
+- Major risk factors
+- Potential operational priorities
+- Overall statewide risk conditions
 
-- Area-level outage awareness
-- Risk information
-- Potential affected locations
-- Safety guidance
-- Public alerts
+![Karnataka Utility View](images/karnataka_utitlityview.jpeg)
 
-![Citizen Dashboard Placeholder](images/citizen-dashboard.png)  
-*(Replace the path above with your actual screenshot)*
+---
+
+### 2. Karnataka Citizen View
+
+The Karnataka citizen interface presents statewide risk information in a simpler and more accessible format. It focuses on:
+
+- Risk awareness
+- Potentially affected areas
+- Citizen-friendly information
+- Safety and preparedness guidance
+
+![Karnataka Citizen View](images/karnataka_citizenview.jpeg)
+
+---
+
+### 3. Bengaluru Utility View
+
+The Bengaluru utility interface provides a more **hyperlocal view** for maintenance and operations teams. It focuses on:
+
+- Potentially affected Bengaluru areas
+- Outage locations
+- Consumers affected
+- Infrastructure and reliability information
+- Operational response information
+
+![Bengaluru Utility View](images/bangalore_utitlityview.jpeg)
+
+---
+
+### 4. Bengaluru Citizen View
+
+The Bengaluru citizen interface provides area-level outage awareness in a simpler format for the public.
+
+It focuses on:
+
+- Hyperlocal outage awareness
+- Potentially affected areas
+- Citizen-friendly alerts
+- Safety and preparedness information
+
+![Bengaluru Citizen View](images/bangalore_citizenview.jpeg)
+
+> **Note:** The dashboard screenshots are displayed at their original aspect ratio to preserve the layout of the long-form interfaces.
 
 ---
 
