@@ -327,7 +327,7 @@ The Karnataka utility interface is designed for maintenance and operations teams
 - Potential operational priorities
 - Overall statewide risk conditions
 
-![Karnataka Utility View](images/karnataka_utitlityview.jpeg)
+<img src="images/karnataka_utilityview.jpeg" alt="Karnataka Utility View" width="650">
 
 ---
 
@@ -340,7 +340,7 @@ The Karnataka citizen interface presents statewide risk information in a simpler
 - Citizen-friendly information
 - Safety and preparedness guidance
 
-![Karnataka Citizen View](images/karnataka_citizenview.jpeg)
+<img src="images/karnataka_citizenview.jpeg" alt="Karnataka Citizen View" width="650">
 
 ---
 
@@ -354,7 +354,7 @@ The Bengaluru utility interface provides a more **hyperlocal view** for maintena
 - Infrastructure and reliability information
 - Operational response information
 
-![Bengaluru Utility View](images/bangalore_utitlityview.jpeg)
+<img src="images/bangalore_utilityview.jpeg" alt="Bengaluru Utility View" width="650">
 
 ---
 
@@ -369,9 +369,7 @@ It focuses on:
 - Citizen-friendly alerts
 - Safety and preparedness information
 
-![Bengaluru Citizen View](images/bangalore_citizenview.jpeg)
-
-> **Note:** The dashboard screenshots are displayed at their original aspect ratio to preserve the layout of the long-form interfaces.
+<img src="images/bangalore_citizenview.jpeg" alt="Bengaluru Citizen View" width="650">
 
 ---
 
